@@ -3,4 +3,4 @@ DNS name
 :
 lexslimx@mydevops.southafricanorth.cloudapp.azure.com
 
-ssh -L 1194:localhost:1194 lexslimx@mydevops.southafricanorth.cloudapp.azure.com -p 443
+ssh -L 1194:localhost:80 lexslimx@mydevops.southafricanorth.cloudapp.azure.com -p 443
